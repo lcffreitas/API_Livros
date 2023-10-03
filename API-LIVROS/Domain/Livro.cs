@@ -11,6 +11,6 @@ namespace API_LIVROS.Domain
         public string Titulo { get; set; }
         public string Genero { get; set; }
         public string Autor { get; set; }
-
+        
     }
 }
