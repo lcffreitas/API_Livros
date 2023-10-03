@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace API_LIVROS.Context.Migrations
+namespace API_LIVROS.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialDb : Migration
+    public partial class FIRST_MIGRATION : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace API_LIVROS.Context.Migrations
+namespace API_LIVROS.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230919111220_InitialDb")]
-    partial class InitialDb
+    [Migration("20231003111831_FIRST_MIGRATION")]
+    partial class FIRST_MIGRATION
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

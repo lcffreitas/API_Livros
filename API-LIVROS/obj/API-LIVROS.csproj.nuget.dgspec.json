@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Fatec\\2023\\Tec_Programacao_Carlao\\API_Livros\\API-LIVROS\\API-LIVROS.csproj": {}
+    "c:\\Users\\0221432311016\\Desktop\\aulaCarlão\\API_Livros\\API-LIVROS\\API-LIVROS.csproj": {}
   },
   "projects": {
-    "d:\\Fatec\\2023\\Tec_Programacao_Carlao\\API_Livros\\API-LIVROS\\API-LIVROS.csproj": {
+    "c:\\Users\\0221432311016\\Desktop\\aulaCarlão\\API_Livros\\API-LIVROS\\API-LIVROS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Fatec\\2023\\Tec_Programacao_Carlao\\API_Livros\\API-LIVROS\\API-LIVROS.csproj",
+        "projectUniqueName": "c:\\Users\\0221432311016\\Desktop\\aulaCarlão\\API_Livros\\API-LIVROS\\API-LIVROS.csproj",
         "projectName": "API-LIVROS",
-        "projectPath": "d:\\Fatec\\2023\\Tec_Programacao_Carlao\\API_Livros\\API-LIVROS\\API-LIVROS.csproj",
-        "packagesPath": "C:\\Users\\0221432311002\\.nuget\\packages\\",
-        "outputPath": "d:\\Fatec\\2023\\Tec_Programacao_Carlao\\API_Livros\\API-LIVROS\\obj\\",
+        "projectPath": "c:\\Users\\0221432311016\\Desktop\\aulaCarlão\\API_Livros\\API-LIVROS\\API-LIVROS.csproj",
+        "packagesPath": "C:\\Users\\0221432311016\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\0221432311016\\Desktop\\aulaCarlão\\API_Livros\\API-LIVROS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\0221432311002\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0221432311016\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
